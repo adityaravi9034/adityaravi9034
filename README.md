@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 🚀
 
-### Hey there! 👋 I'm Aditya Ravi, a passionate about Artificial Intelligence and Deep Learning.
+### Hey there! 👋 I'm Aditya Ravi, and I am passionate about Artificial Intelligence and Deep Learning.
 
 I'm currently pursuing a Bachelor of Science in Artificial Intelligence from a joint university program involving the University of Milan, the University of Milano-Bicocca, and the University of Pavia.
 
