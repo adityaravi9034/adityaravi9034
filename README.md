@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=3000&pause=1000&color=2E86AB&center=true&width=600&lines=AI+Researcher+%E2%80%A2+Data+Scientist;FinTech+Innovator+%E2%80%A2+ML+Engineer;Building+Tomorrow's+Intelligence" alt="Dynamic Title" />
 
-**B.Sc. Data Science & AI | University of Milano-Bicocca & Pavia**  
+**B.Sc. Artificial Intelligence  | University of Milano-Bicocca & Pavia**  
 📍 Milan, Italy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ravi-a3aab11b6)
