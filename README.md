@@ -216,20 +216,7 @@ flowchart LR
 - What inductive biases are appropriate for cross-modal representation learning?
 - How do we rigorously quantify uncertainty when integrating heterogeneous biological data?
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaravi9034&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2E86AB&icon_color=2E86AB"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaravi9034&layout=compact&theme=github_dark&hide_border=true&title_color=2E86AB"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaravi9034&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
