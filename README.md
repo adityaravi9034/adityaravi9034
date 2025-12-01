@@ -17,7 +17,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> About Me
 
-I am a final-year AI undergraduate with **four research internships** spanning diverse domains—from temporal graph neural networks for financial prediction to multimodal deep learning for cancer immunotherapy. My research journey reflects a deliberate exploration toward understanding **principled machine learning methods** that bridge theoretical foundations with real-world impact.
+I am a final-year AI undergraduate with **four research internships** spanning diverse domains from temporal graph neural networks for financial prediction to multimodal deep learning for cancer immunotherapy. My research journey reflects a deliberate exploration toward understanding **principled machine learning methods** that bridge theoretical foundations with real-world impact.
 
 Currently focused on **computational biology** and **healthcare AI**, I'm particularly interested in deep generative models, multimodal data integration, and uncertainty quantification in high-dimensional biological systems.
 
@@ -43,7 +43,7 @@ flowchart TD
     end
     
     subgraph Synthesis[" 💡 RESEARCH SYNTHESIS "]
-        PHD[PhD Research Vision<br/>Principled ML for<br/>Computational Sciences ]
+        PHD[ Research Vision<br/>Principled ML for<br/>Computational Sciences ]
     end
 
     DM -->|Training dynamics| MMIO
@@ -59,7 +59,7 @@ flowchart TD
 <details>
 <summary><b>📊 How My Research Connects (Click to Expand)</b></summary>
 
-| Research Area | Key Learning | Connection to PhD Goals |
+| Research Area | Key Learning | Connection to Academic Goals |
 |---------------|--------------|------------------------|
 | **Temporal GNNs** (Finance) | Structured data, multi-relational graphs, distribution shift | Foundation for biological graph representations |
 | **CGM Validation** (Healthcare) | Clinical validation, inter-individual variability, real-world data challenges | Domain expertise in healthcare AI |
@@ -175,7 +175,7 @@ Investigating closed-loop learning dynamics in **diffusion-based generative mode
 
 ---
 
-## 🎯 Research Interests & PhD Focus
+## 🎯 Research Interests &  Focus
 
 ```mermaid
 flowchart LR
@@ -235,9 +235,9 @@ flowchart LR
 
 <div align="center">
 
-I'm actively applying to **PhD programs for Fall 2026** in Machine Learning, Computational Biology, and AI for Healthcare.
+I'm actively looking to work in Machine Learning, Computational Biology, and AI for Healthcare.
 
-Open to discussing research collaborations, PhD opportunities, and innovative applications of ML in biology and medicine.
+Open to discussing research collaborations, opportunities, and innovative applications of ML in biology and medicine.
 
 **Email:** [adityaravu@gmail.com](mailto:adityaravu@gmail.com)  
 **LinkedIn:** [linkedin.com/in/aditya-ravi-a3aab11b6](https://linkedin.com/in/aditya-ravi-a3aab11b6)  
