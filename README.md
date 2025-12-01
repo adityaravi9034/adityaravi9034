@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=3000&pause=1000&color=2E86AB&center=true&width=700&lines=AI+Researcher+%7C+Computational+Biology+%26+ML;PhD+Applicant+Fall+2026+%7C+University+of+Pavia;Building+Principled+ML+for+Real-World+Impact" alt="Dynamic Title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=3000&pause=1000&color=2E86AB&center=true&width=700&lines=AI+Researcher+%7C+Computational+Biology+%26+ML;University+of+Pavia;Building+Principled+ML+for+Real-World+Impact" alt="Dynamic Title" />
 
 **B.Sc. Artificial Intelligence | Università degli Studi di Pavia**  
 📍 Pavia, Italy | 🎓 Expected Graduation: February 2026
