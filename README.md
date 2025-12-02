@@ -77,7 +77,7 @@ flowchart TD
 <td width="50%">
 
 ### 🧬 AI-ON-LAB, Politecnico Milano
-**Research Intern** | Jan 2025 - Present  
+**Research Intern** | Nov 2025 - Present  
 *Supervisor: Dr. Vanja Miskovic*
 
 Developing multimodal ML approaches for predicting immunotherapy efficacy in **Non-Small Cell Lung Cancer**:
@@ -89,7 +89,7 @@ Developing multimodal ML approaches for predicting immunotherapy efficacy in **N
 <td width="50%">
 
 ### ⚛️ Statistical Physics & ML Group, UniMi
-**Research Intern** | Oct 2024 - Present  
+**Research Intern** | Oct 2025 - Present  
 *Supervisor: Prof. Marco Gherardi*
 
 Investigating closed-loop learning dynamics in **diffusion-based generative models**:
@@ -103,7 +103,7 @@ Investigating closed-loop learning dynamics in **diffusion-based generative mode
 <td width="50%">
 
 ### 🩺 ICDS Lab, University of Pavia
-**Research Intern** | May 2024 - Nov 2024  
+**Research Intern** | May 2025 - Nov 2025  
 *Supervisor: Prof. Eleonora Maria Aiello*
 
 **CGM validation study** in pediatric obesity:
@@ -115,7 +115,7 @@ Investigating closed-loop learning dynamics in **diffusion-based generative mode
 <td width="50%">
 
 ### 📈 University of Milan, CS Dept
-**Research Intern** | Oct 2023 - May 2024  
+**Research Intern** | Oct 2024 - May 2025  
 *Supervisor: Prof. Matteo Zignani*
 
 **Temporal Graph Neural Networks** for NASDAQ prediction:
