@@ -15,6 +15,12 @@
 
 ---
 
+## 🎬 My Work in 30 Seconds
+
+https://github.com/user-attachments/assets/a3ae4da5-3d04-4a3d-8a2d-9389d72c730e
+
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> About Me
 
 I am an **Artificial Intelligence graduate from the University of Pavia** with **four research internships** spanning diverse domains from temporal graph neural networks for financial prediction to multimodal deep learning for cancer immunotherapy. My research journey reflects a deliberate exploration toward understanding **principled machine learning methods** that bridge theoretical foundations with real-world impact.
