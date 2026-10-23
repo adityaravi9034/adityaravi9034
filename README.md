@@ -17,7 +17,9 @@
 
 ## 🎬 Research & Synthetic Data in 30 Seconds
 
-https://github.com/user-attachments/assets/a3ae4da5-3d04-4a3d-8a2d-9389d72c730e
+[![Aditya Ravi — research and synthetic datasets. Open the video player.](https://github.com/user-attachments/assets/1f9a05a5-2292-499e-9012-17e5294e34f2)](https://github.com/user-attachments/assets/a3ae4da5-3d04-4a3d-8a2d-9389d72c730e)
+
+[▶ Open video player](https://github.com/user-attachments/assets/a3ae4da5-3d04-4a3d-8a2d-9389d72c730e)
 
 ---
 
