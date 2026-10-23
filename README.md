@@ -15,7 +15,7 @@
 
 ---
 
-## 🎬 My Work in 30 Seconds
+## 🎬 Research & Synthetic Data in 30 Seconds
 
 https://github.com/user-attachments/assets/a3ae4da5-3d04-4a3d-8a2d-9389d72c730e
 
