@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=3000&pause=1000&color=2E86AB&center=true&width=700&lines=AI+Researcher+%7C+Computational+Biology+%26+ML;University+of+Pavia;Building+Principled+ML+for+Real-World+Impact" alt="Dynamic Title" />
 
 **B.Sc. Artificial Intelligence | Università degli Studi di Pavia**  
-📍 Pavia, Italy | 🎓 Expected Graduation: February 2026
+📍 Pavia, Italy | 🎓 Graduated: July 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ravi-a3aab11b6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaravu@gmail.com)
@@ -17,7 +17,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> About Me
 
-I am a final-year AI undergraduate with **four research internships** spanning diverse domains from temporal graph neural networks for financial prediction to multimodal deep learning for cancer immunotherapy. My research journey reflects a deliberate exploration toward understanding **principled machine learning methods** that bridge theoretical foundations with real-world impact.
+I am an **Artificial Intelligence graduate from the University of Pavia (July 2026)** with **four research internships** spanning diverse domains from temporal graph neural networks for financial prediction to multimodal deep learning for cancer immunotherapy. My research journey reflects a deliberate exploration toward understanding **principled machine learning methods** that bridge theoretical foundations with real-world impact.
 
 Currently focused on **computational biology** and **healthcare AI**, I'm particularly interested in deep generative models, multimodal data integration, and uncertainty quantification in high-dimensional biological systems.
 
